@@ -22,6 +22,7 @@
   "homepage": "https://github.com/tidysource/tmustache#readme",
   "dependencies": {
     "mustache": "^2.3.0",
+    "objref": "^1.0.0",
     "tidyval": "^1.0.0"
   },
   "devDependencies": {
