@@ -1,6 +1,6 @@
 {
   "name": "tmustache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper of mustache template engine for use with \"t\".",
   "main": "index.js",
   "scripts": {
