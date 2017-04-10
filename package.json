@@ -1,0 +1,30 @@
+{
+  "name": "tmustache",
+  "version": "1.0.0",
+  "description": "Wrapper of mustache template engine for use with \"t\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidysource/tmustache.git"
+  },
+  "keywords": [
+    "mustache",
+    "t"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tidysource/tmustache/issues"
+  },
+  "homepage": "https://github.com/tidysource/tmustache#readme",
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "tidyval": "^1.0.0"
+  },
+  "devDependencies": {
+    "tidytest": "^1.0.1"
+  }
+}
